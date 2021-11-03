@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: giovane.fern.m@gmail.com
 
+-->
 
 ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
 
--->
 
