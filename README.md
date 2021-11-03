@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/Giovane-F-Moreira/github-readme-stats)
+
 
