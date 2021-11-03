@@ -10,7 +10,7 @@ Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers
 
 My skills: 
 
-<img class="emoji" alt="woman_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">Languages <br>
+<img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">Languages <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
