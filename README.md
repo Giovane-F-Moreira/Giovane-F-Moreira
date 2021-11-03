@@ -3,7 +3,7 @@ Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers
 
 - :computer: I'm currently working on robotic simulations with artificial neural networks using Ubuntu, Ros, Gazebo and Python.
 - :books: I'm learning AngularJs, Django and React-Native
-- 👯 I'm collaborating on research and projects for the Innovation and Research in Automation and Robotics Group -GIPAR
+- I'm collaborating on research and projects for the Innovation and Research in Automation and Robotics Group -GIPAR
 - 📫 How to reach me: giovane.fern.m@gmail.com
 
 My skills: 
