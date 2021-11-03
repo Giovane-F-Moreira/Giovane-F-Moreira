@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" data-src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" alt="Welcome back free icon" title="Welcome back free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5167/5167400.png 4x"><br>
+<img src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" data-src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" alt="Welcome back free icon" title="Welcome back free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5167/5167400.png 4x"> <div class="tenor-gif-embed" data-postid="9352787" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/ryu-hadouken-street-fighter-power-gif-9352787">Ryu Hadouken GIF</a>from <a href="https://tenor.com/search/ryu-gifs">Ryu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <br>
 Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm currently interning at BTech, which is the junior company of the IFBA and I'm a researcher at the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
 
 - :computer: I'm currently working on robotic simulations with artificial neural networks using Ubuntu, Ros, Gazebo and Python.
@@ -60,7 +60,7 @@ My skills:
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <br>
 
-Analysis Panel 
+Analysis Panel <br>
 ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact)](https://github.com/Giovane-F-Moreira/github-readme-stats)
 
