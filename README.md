@@ -1,14 +1,4 @@
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
-
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
-
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
-
-<center>
-  <img src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" data-src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" alt="Welcome back free icon" title="Welcome back free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5167/5167400.png 4x"> </center><br>
+<img src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" data-src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" alt="Welcome back free icon" title="Welcome back free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5167/5167400.png 4x"><br>
 Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm currently interning at BTech, which is the junior company of the IFBA and I'm a researcher at the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
 
 - :computer: I'm currently working on robotic simulations with artificial neural networks using Ubuntu, Ros, Gazebo and Python.
@@ -70,17 +60,10 @@ My skills:
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <br>
 
-Analysis Panel
-<div class="container">
-    <div class="row">
-        <div class="col-6">
-            ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
-        </div>
-        <div class="col-6">
-            [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact)](https://github.com/Giovane-F-Moreira/github-readme-stats)
-        </div>
-    </div>
-</div>
+Analysis Panel 
+![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact)](https://github.com/Giovane-F-Moreira/github-readme-stats)
+
 
 
 
