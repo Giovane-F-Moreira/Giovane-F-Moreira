@@ -1,10 +1,10 @@
-<img src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" data-src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" alt="Welcome back free icon" title="Welcome back free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5167/5167400.png 4x"><br>
+<div style="text-align:center"><img src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" data-src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" alt="Welcome back free icon" title="Welcome back free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5167/5167400.png 4x"></div><br>
 Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm currently interning at BTech, which is the junior company of the IFBA and I'm a researcher at the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
 
 - :computer: I'm currently working on robotic simulations with artificial neural networks using Ubuntu, Ros, Gazebo and Python.
 - :books: I'm currently learning AngularJs, Django and React-Native
 - 👯 I'm collaborating on research and projects for the Innovation and Research in Automation and Robotics Group -GIPAR
-- 📫 How to reach me: <img src="https://camo.githubusercontent.com/7ec224a9d5a60675c4e8d3e63a7c5b9484c30d53ed40e5040e76088491ceb467/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d616e646572736f6e6c656974652e646576253430676d61696c2e636f6d2d726564" alt="" data-canonical-src="https://img.shields.io/badge/Gmail-giovane.fern.m%40gmail.com-red" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src=" " style="max-width: 100%;">
+- 📫 How to reach me: giovane.fern.m@gmail.com
 
 My skills: 
 
