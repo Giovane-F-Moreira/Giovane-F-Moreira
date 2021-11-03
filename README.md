@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" data-src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" alt="Welcome back free icon" title="Welcome back free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5167/5167400.png 4x" style="margin-left: 200px;"><br>
+<img src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" data-src="https://cdn-icons-png.flaticon.com/128/5167/5167400.png" alt="Welcome back free icon" title="Welcome back free icon" width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/5167/5167400.png 4x"><br>
 Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm currently interning at BTech, which is the junior company of the IFBA and I'm a researcher at the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
 
 - :computer: I'm currently working on robotic simulations with artificial neural networks using Ubuntu, Ros, Gazebo and Python.
@@ -27,14 +27,11 @@ My skills:
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img src="{BadgeURLHere}" />
-
 
 <img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">Mobile Frameworks: <br>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <img class="emoji" alt="bulb" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">Prototyping Platforms: <br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
 <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">IDE: <br>
