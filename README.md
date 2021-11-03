@@ -1,4 +1,4 @@
-<img src="https://cdn.icon-icons.com/icons2/2042/PNG/512/emoji_emoticon_happy_satisfacted_smile_icon_124273.png" /> Welcome
+<img src="https://cdn.icon-icons.com/icons2/2042/PNG/512/emoji_emoticon_happy_satisfacted_smile_icon_124273.png" width=”80” height=”80” /> Welcome<br>
 Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm currently interning at BTech, which is the junior company of the IFBA and I'm a researcher at the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
 
 - :computer: I'm currently working on robotic simulations with artificial neural networks using Ubuntu, Ros, Gazebo and Python.
@@ -58,7 +58,7 @@ My skills:
 <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">Office: <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <br>
 ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact)](https://github.com/Giovane-F-Moreira/github-readme-stats)
