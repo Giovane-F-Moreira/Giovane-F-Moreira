@@ -1,6 +1,6 @@
 
   ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●<br>
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -Welcome- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ <br>
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -Welcome- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ <br>
   ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●<br>
 
 Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm currently interning at BTech, which is the junior company of the IFBA and I'm a member of the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
@@ -77,7 +77,7 @@ My skills:
 ──────────────────────────██▓▓▓▓▓██─────────────<br>
 ────────────────────────────█████─────────────<br>
 
-<alysis Panel <br>
+<alysis Panel ><br>
 ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact)](https://github.com/Giovane-F-Moreira/github-readme-stats)
 
