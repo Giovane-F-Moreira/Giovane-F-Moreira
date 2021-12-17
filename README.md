@@ -1,6 +1,6 @@
 
   ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●<br>
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -Welcome- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ <br>
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -Welcome- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ <br>
   ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●<br>
 
 Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm currently interning at BTech, which is the junior company of the IFBA and I'm a member of the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
