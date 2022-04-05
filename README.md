@@ -1,13 +1,23 @@
 
+Hi, I'm Giovane Fernandes
+<hr></hr>
 
-Hi, I'm Giovane, Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm currently interning at BTech, which is the junior company of the IFBA and I'm a member of the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;<br>
+      }
+
+      let giovaneFernandes = new dev('Giovane Fernnades', 27, 'Developer');
+      console.log(giovaneFernandes);
+
+I'm Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm a member of the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
 - :computer: I'm currently working on robotic simulations with artificial neural networks using Ubuntu, Ros, Gazebo and Python.
 - :books: I'm learning ReactJs.
 - <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"> I'm collaborating on research and projects for the Innovation and Research in Automation and Robotics Group -GIPAR
 - 📫 How to reach me: giovane.fernandes.moreira@gmail.com
 
  
-
 <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">My skills: <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
