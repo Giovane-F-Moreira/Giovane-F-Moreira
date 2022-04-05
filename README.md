@@ -3,13 +3,13 @@ Hi, I'm Giovane Fernandes
 <hr></hr>
 
 function dev(name, age, work) {<br>
-    &nbsp    this.name = name;<br>
-    &nbsp   this.age = age;<br>
-    &nbsp    this.work = work;<br>
+    this.name = name;<br>
+    this.age = age;<br>
+    this.work = work;<br>
    }<br>
 
-      let giovaneFernandes = new dev('Giovane Fernnades', 27, 'Developer');<br>
-      console.log(giovaneFernandes);<br>
+let giovaneFernandes = new dev('Giovane Fernnades', 27, 'Developer');<br>
+console.log(giovaneFernandes);<br>
 
 I'm Member of the Institute of Electrical and Electronics Engineers - IEEE, Computer Technician at the Federal Institute of Bahia - IFBA and majoring in Information Systems. I'm a member of the Research and Innovation Group in Robotics and Automation - GIPAR. I'm a hardware enthusiast and passionate about software, I hope to contribute a lot to my repositories.
 - :computer: I'm currently working on robotic simulations with artificial neural networks using Ubuntu, Ros, Gazebo and Python.
