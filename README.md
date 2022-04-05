@@ -38,6 +38,8 @@ I'm Member of the Institute of Electrical and Electronics Engineers - IEEE, Comp
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
+
+💻 Analitcs:
 <alysis Panel ><br>
 ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact)](https://github.com/Giovane-F-Moreira/github-readme-stats)
