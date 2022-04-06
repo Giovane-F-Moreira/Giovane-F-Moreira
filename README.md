@@ -40,8 +40,10 @@ I'm Member of the Institute of Electrical and Electronics Engineers - IEEE, Comp
 
 
 💻 Analitcs:
-<alysis Panel ><br>
-![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact)](https://github.com/Giovane-F-Moreira/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Giovane-F-Moreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ![Snake animation](https://github.com/Giovane-F-Moreira/Giovane-F-Moreira/blob/output/github-contribution-grid-snake.svg)
