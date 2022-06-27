@@ -45,8 +45,8 @@ I'm Member of the Institute of Electrical and Electronics Engineers - IEEE, Comp
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion"/></code>
 
-### :star: **Statistics on Github:**
-<div align="center">
+### :star: **Statistics on Github:**<br>
+<div>
   <a href="https://github.com/Giovane-F-Moreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact&langs_count=7&theme=dracula"/>
