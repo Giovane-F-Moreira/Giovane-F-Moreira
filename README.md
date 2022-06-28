@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Giovane Fernandes</h1>
+<h1><p align="center">Hi, I'm Giovane Fernandes</p></h1>
 
 <img align="right" width="332" src="https://raw.githubusercontent.com/romarpla/FrontEnd-Mision/master/images/frontend.gif" />
 
@@ -51,5 +51,10 @@ I'm Member of the Institute of Electrical and Electronics Engineers - IEEE, Comp
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+</br>
+
+### :eyes: Views Counter </br>
+<img  src="https://profile-counter.glitch.me/Giovane-F-Moreira/count.svg" />
 
 ![Snake animation](https://github.com/Giovane-F-Moreira/Giovane-F-Moreira/blob/output/github-contribution-grid-snake.svg)
