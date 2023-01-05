@@ -45,6 +45,12 @@ I'm Member of the Institute of Electrical and Electronics Engineers - IEEE, Comp
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion"/></code>
 
+<h3> :earth_americas: &nbsp;Where in find me: </h3> 
+
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-Giovane%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-moreira-89a6a2214)](https://www.linkedin.com/in/giovane-moreira-89a6a2214)
+[![Gmail Badge](https://img.shields.io/badge/-giovane.fernandes.moreira@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovane.fernandes.moreira@email.com)](mailto:giovane.fernandes.moreira@email.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/Giovane-F-Moreira?label=follow&style=social)](https://github.com/Giovane-F-Moreira)
+
 ### :star: **Statistics on Github:**<br>
 <div>
   <a href="https://github.com/Giovane-F-Moreira">
