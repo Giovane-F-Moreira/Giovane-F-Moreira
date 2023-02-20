@@ -11,7 +11,7 @@ I'm Member of the Institute of Electrical and Electronics Engineers - IEEE, Comp
 - 💻 I work with the creation of web robotic systems.
 - 🖥️ I work with the creation of web site and web systems.
 - 📚 I'm learning VueJs ans SaSS.
-- <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"> I'm collaborating on <a href="https://gipar.ifba.edu.br/"> GIPAR </a><br>
+- <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"> I'm collaborating on <a target="_blank" href="https://gipar.ifba.edu.br/"> GIPAR </a><br>
 
 ### 📄 **Projects Patterns**
 <hr>
