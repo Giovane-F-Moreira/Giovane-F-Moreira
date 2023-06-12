@@ -21,57 +21,82 @@ Project documentation is stored in the **Docs** folder at the root of each repos
 
 ### 🚀 **My Skills**
 <hr>
+<details>
+  <summary><h3>💻 OS</h3></summary>
+    <code><img height="25" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Java"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Java"/></code>
+</details>
 
-### **💻 OS**
-<code><img height="25" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>💻 Languages</h3></summary>
+    <code><img height="25" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Java"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Java"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Java"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Java"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Java"/></code>
+    <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Java"/></code>
+</details>
 
-### **💻 Languages**
-<code><img height="25" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>⚙️ Frameworks/Libraries</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Java"/></code>
+  <code><img height="25" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Java"/></code>
+</details>
 
-### **⚙️ Frameworks/Libraries**
-<code><img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>⚡ Database</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Java"/></code>
+  <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Java"/></code>
+</details>
 
-### **⚡ Database**
-<code><img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Java"/></code>
-<code><img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>🖍 Design</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Java"/></code>
+</details>
 
-### **🖍 Design**
-<code><img height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>👩‍💻 IDE</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Java"/></code>
+</details>
 
-### **👩‍💻 IDE**
-<code><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>🧐 Linters</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Java"/></code>
+</details>
 
-### **🧐 Linters**
-<code><img height="25" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>📱 Mobile Frameworks</h3></summary>
+  <code><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Java"/></code>
+</details>
 
-### **📱 Mobile Frameworks**
-<code><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Java"/></code>
+<details>
+  <summary><h3>👨‍💻 Office</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Java"/></code>
+</details>
 
-### **👨‍💻 Office**
-<code><img height="25" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>💡 Prototyping Platforms</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Java"/></code>
+</details>
 
-### **💡 Prototyping Platforms**
-<code><img height="25" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Java"/></code>
-
-### **💻 Terminal**
-<code><img height="25" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>💻 Terminal</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Java"/></code>
 <code><img height="25" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Java"/></code>
+</details>
 
-### **🤜🤛 Group**
-<code><img height="25" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>🤜🤛 Group</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Java"/></code>
+</details>
 
-### **🎮 Games**
-<code><img height="25" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Java"/></code>
+<details>
+  <summary><h3>🎮 Games</h3></summary>
+  <code><img height="25" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Java"/></code>
 <code><img height="25" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Java"/></code>
+</details>
 
 ### :star: **Statistics on Github:**<br>
 <hr>
